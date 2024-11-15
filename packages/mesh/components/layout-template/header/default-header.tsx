@@ -33,7 +33,7 @@ export default function DefaultHeader() {
         <div className="flex gap-10">
           <Link
             href={LOGO_ICONS.mobile.href}
-            className="flex items-center justify-center"
+            className="GTM-header_click_mesh_logo flex items-center justify-center"
           >
             <Icon
               size={LOGO_ICONS.mobile.size}
